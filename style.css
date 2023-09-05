@@ -1,0 +1,282 @@
+body{
+    background-image: url(ffpic.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    position: relative;
+
+}
+
+.box{
+    position: relative;
+    width: 20cm;
+    height: 10cm;
+    background-color: black;
+    opacity: 0.5;  
+    margin-top: 5cm;
+    margin-left: 5.5cm;
+}
+
+#ff_character{
+    width: 20cm;
+    height: 1cm;
+    position: absolute;
+    text-align: center;
+    color: rgb(253, 252, 252);
+    background-color: rgb(252, 3, 3);
+    margin-top: -1cm ;
+    margin-left: 5.5cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ac{
+    width: 15cm;
+    height: 1cm;
+    position: absolute;
+    color: rgb(253, 252, 252); 
+    margin-top: 1cm ;
+    margin-left: 3cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#pc{
+    width: 15cm;
+    height: 1cm;
+    position: absolute;
+    color: rgb(253, 252, 252); 
+    margin-top: 1cm ;
+    margin-left: 12.5cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.active{
+
+    margin-top: -10cm;
+    margin-left: 8cm;
+    position: relative;
+
+}
+
+
+.passive{
+
+    margin-top: -10cm;
+    margin-left: 5.8cm;
+    position: relative;
+
+}  
+
+.Alok{
+    position: absolute;
+    width: 2cm;
+    height: 2.5cm;
+    margin-top: 2.5cm;
+    background-color: white;
+}
+
+.k{
+    position: absolute;
+    width: 2cm;
+    height: 2.5cm;
+    background-color: white;
+    margin-top: 2.5cm;
+    margin-left: 2.8cm;
+}
+.chorno{
+    position: absolute;
+    width: 2cm;
+    height: 2.5cm;
+    background-color: white;
+    margin-top: 6cm;
+}
+.skyler{
+    position: absolute;
+    width: 2cm;
+    height: 2.5cm;
+    background-color: white;
+    margin-top: 6cm;
+    margin-left: 2.8cm;
+}
+
+
+/*------*/
+
+.kelly{
+    position: absolute;
+    width: 2cm;
+    height: 2.5cm;
+    background-color: white;
+    margin-top: 2.5cm;
+    margin-left: 15cm;
+}
+
+.maxim{
+    position: absolute;
+    width: 2cm;
+    height: 2.5cm;
+    background-color: white;
+    margin-top: 6cm;
+    margin-left: 15cm;
+}
+
+.andrew{
+    position: absolute;
+    width: 2cm;
+    height: 2.5cm;
+    background-color: white;
+    margin-top: 2.5cm;
+    margin-left: 12cm;
+}
+
+.hayato{
+    position: absolute;
+    width: 2cm;
+    height: 2.5cm;
+    background-color: white;
+    margin-top: 6cm;
+    margin-left: 12cm;
+}
+
+.name1{
+    margin-top: 0cm;
+    margin-left: .5cm;
+
+}
+
+.img1{
+    height: 2cm;
+    width: 1.9cm;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    margin-top: 0cm;
+    margin-left: cm;
+    background-image: url("./alok-jpg.jpeg");
+}
+
+.name2{
+    margin-top: 0cm;
+    margin-left: cm;
+    text-align: center;
+
+}
+
+.img2{
+    height: 2cm;
+    width: 2cm;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    margin-top: 0cm;
+    margin-left: cm;
+    background-image: url("./K.jpg");
+}
+
+.name3{
+    margin-top: 0cm;
+    margin-left: cm;
+    text-align: center;
+
+}
+
+.img3{
+    height: 2cm;
+    width: 2cm;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    margin-top: 0cm;
+    margin-left: cm;
+    background-image: url("./chorono.jpg");
+}
+
+.name4{
+    margin-top: 0cm;
+    margin-left: cm;
+    text-align: center;
+
+}
+
+.img4{
+    height: 2cm;
+    width: 2cm;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    margin-top: 0cm;
+    margin-left: cm;
+    background-image: url("./skyler.jpg");
+}
+
+/* ------passive----- */
+
+.name5{
+    margin-top: 0cm;
+    margin-left: cm;
+    text-align: center;
+
+}
+
+.img5{
+    height: 2cm;
+    width: 2cm;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    margin-top: 0cm;
+    margin-left: cm;
+    background-image: url("./kelly.jpg");
+}
+
+.name6{
+    margin-top: 0cm;
+    margin-left: cm;
+    text-align: center;
+
+}
+
+.img6{
+    height: 2cm;
+    width: 2cm;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    margin-top: 0cm;
+    margin-left: cm;
+    background-image: url("./maxim.jpg");
+}
+
+.name7{
+    margin-top: 0cm;
+    margin-left: cm;
+    text-align: center;
+
+}
+
+.img7{
+    height: 2cm;
+    width: 2cm;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    margin-top: 0cm;
+    margin-left: cm;
+    background-image: url("./andrew.jpg");
+}
+
+.name8{
+    margin-top: 0cm;
+    margin-left: cm;
+    text-align: center;
+
+}
+
+.img8{
+    height: 2cm;
+    width: 2cm;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    margin-top: 0cm;
+    margin-left: cm;
+    background-image: url("./hayato.jpg");
+}
